@@ -1,0 +1,5 @@
+vpc_cidr_block = "10.0.0.0/16"
+web_subnet = "10.0.100.0/24"
+my_public_ip = "76.123.9.248"
+public_key = "/users/leolabarrolle/.ssh/test_rsa.pub"
+ssh_public_key = "/Users/leolabarrolle/.ssh/test_rsa.pub"
